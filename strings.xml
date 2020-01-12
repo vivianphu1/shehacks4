@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">On Time!</string>
+    <string name="edit_message">What is your program?</string>
+    <string name="button_send">Enter</string>
+
+    <string-array name = "names">
+        <item>Science</item>
+        <item>Engineering</item>
+        <item>Arts</item>
+        <item>Law</item>
+    </string-array>
+</resources>
